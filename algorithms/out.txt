@@ -1,0 +1,2001 @@
+g++     approximation.cpp   -o approximation
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1
+result: 20 seconds taken:0
+is valid:1

@@ -1,0 +1,297 @@
+g++     approximation.cpp   -o approximation
+result: 127 seconds taken:0
+is valid:1
+result: 131 seconds taken:1
+is valid:1
+result: 129 seconds taken:1
+is valid:1
+result: 128 seconds taken:1
+is valid:1
+result: 126 seconds taken:1
+is valid:1
+result: 127 seconds taken:4
+is valid:1
+result: 131 seconds taken:1
+is valid:1
+result: 133 seconds taken:0
+is valid:1
+result: 127 seconds taken:4
+is valid:1
+result: 129 seconds taken:1
+is valid:1
+result: 129 seconds taken:3
+is valid:1
+result: 129 seconds taken:1
+is valid:1
+result: 129 seconds taken:1
+is valid:1
+result: 130 seconds taken:1
+is valid:1
+result: 128 seconds taken:1
+is valid:1
+result: 129 seconds taken:1
+is valid:1
+result: 127 seconds taken:2
+is valid:1
+result: 129 seconds taken:0
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 126 seconds taken:0
+is valid:1
+result: 128 seconds taken:2
+is valid:1
+result: 128 seconds taken:0
+is valid:1
+result: 127 seconds taken:2
+is valid:1
+result: 126 seconds taken:0
+is valid:1
+result: 129 seconds taken:4
+is valid:1
+result: 132 seconds taken:1
+is valid:1
+result: 127 seconds taken:0
+is valid:1
+result: 126 seconds taken:1
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 128 seconds taken:4
+is valid:1
+result: 128 seconds taken:1
+is valid:1
+result: 127 seconds taken:2
+is valid:1
+result: 126 seconds taken:1
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 129 seconds taken:1
+is valid:1
+result: 127 seconds taken:5
+is valid:1
+result: 129 seconds taken:0
+is valid:1
+result: 126 seconds taken:1
+is valid:1
+result: 126 seconds taken:1
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 128 seconds taken:0
+is valid:1
+result: 127 seconds taken:0
+is valid:1
+result: 127 seconds taken:2
+is valid:1
+result: 127 seconds taken:0
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 126 seconds taken:0
+is valid:1
+result: 126 seconds taken:0
+is valid:1
+result: 129 seconds taken:0
+is valid:1
+result: 129 seconds taken:0
+is valid:1
+result: 129 seconds taken:1
+is valid:1
+result: 126 seconds taken:1
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 127 seconds taken:5
+is valid:1
+result: 127 seconds taken:0
+is valid:1
+result: 127 seconds taken:0
+is valid:1
+result: 127 seconds taken:0
+is valid:1
+result: 128 seconds taken:0
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 130 seconds taken:1
+is valid:1
+result: 128 seconds taken:0
+is valid:1
+result: 129 seconds taken:4
+is valid:1
+result: 127 seconds taken:2
+is valid:1
+result: 126 seconds taken:0
+is valid:1
+result: 126 seconds taken:1
+is valid:1
+result: 128 seconds taken:2
+is valid:1
+result: 129 seconds taken:3
+is valid:1
+result: 127 seconds taken:0
+is valid:1
+result: 126 seconds taken:0
+is valid:1
+result: 128 seconds taken:0
+is valid:1
+result: 128 seconds taken:1
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 133 seconds taken:0
+is valid:1
+result: 129 seconds taken:0
+is valid:1
+result: 131 seconds taken:0
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 128 seconds taken:3
+is valid:1
+result: 127 seconds taken:2
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 127 seconds taken:0
+is valid:1
+result: 128 seconds taken:1
+is valid:1
+result: 127 seconds taken:4
+is valid:1
+result: 131 seconds taken:2
+is valid:1
+result: 127 seconds taken:0
+is valid:1
+result: 128 seconds taken:0
+is valid:1
+result: 126 seconds taken:0
+is valid:1
+result: 129 seconds taken:3
+is valid:1
+result: 128 seconds taken:1
+is valid:1
+result: 129 seconds taken:3
+is valid:1
+result: 126 seconds taken:0
+is valid:1
+result: 127 seconds taken:0
+is valid:1
+result: 127 seconds taken:2
+is valid:1
+result: 130 seconds taken:1
+is valid:1
+result: 128 seconds taken:1
+is valid:1
+result: 127 seconds taken:2
+is valid:1
+result: 126 seconds taken:0
+is valid:1
+result: 126 seconds taken:0
+is valid:1
+result: 133 seconds taken:0
+is valid:1
+result: 127 seconds taken:0
+is valid:1
+result: 127 seconds taken:0
+is valid:1
+result: 128 seconds taken:1
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 122 seconds taken:3
+is valid:1
+result: 130 seconds taken:1
+is valid:1
+result: 126 seconds taken:0
+is valid:1
+result: 129 seconds taken:5
+is valid:1
+result: 127 seconds taken:5
+is valid:1
+result: 126 seconds taken:0
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 126 seconds taken:1
+is valid:1
+result: 128 seconds taken:1
+is valid:1
+result: 127 seconds taken:0
+is valid:1
+result: 128 seconds taken:0
+is valid:1
+result: 129 seconds taken:3
+is valid:1
+result: 128 seconds taken:4
+is valid:1
+result: 126 seconds taken:0
+is valid:1
+result: 129 seconds taken:1
+is valid:1
+result: 127 seconds taken:5
+is valid:1
+result: 129 seconds taken:0
+is valid:1
+result: 129 seconds taken:4
+is valid:1
+result: 128 seconds taken:1
+is valid:1
+result: 126 seconds taken:0
+is valid:1
+result: 129 seconds taken:1
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 126 seconds taken:1
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 128 seconds taken:0
+is valid:1
+result: 127 seconds taken:0
+is valid:1
+result: 129 seconds taken:1
+is valid:1
+result: 126 seconds taken:0
+is valid:1
+result: 128 seconds taken:0
+is valid:1
+result: 129 seconds taken:2
+is valid:1
+result: 129 seconds taken:0
+is valid:1
+result: 129 seconds taken:4
+is valid:1
+result: 129 seconds taken:1
+is valid:1
+result: 129 seconds taken:2
+is valid:1
+result: 126 seconds taken:1
+is valid:1
+result: 127 seconds taken:0
+is valid:1
+result: 127 seconds taken:3
+is valid:1
+result: 129 seconds taken:0
+is valid:1
+result: 127 seconds taken:1
+is valid:1
+result: 129 seconds taken:1
+is valid:1
+result: 131 seconds taken:0
+is valid:1
+result: 126 seconds taken:0
+is valid:1
+result: 129 seconds taken:2
+is valid:1
+result: 127 seconds taken:2
+is valid:1
